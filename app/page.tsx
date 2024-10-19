@@ -1,7 +1,7 @@
 'use client';
 import { useState } from "react";
 import { CheckCircledIcon } from "@radix-ui/react-icons";
-import CustomTickIcon from "./customComponents/page";
+import CustomTickIcon from "./customComponents/CustomTickIcon";
 
 // Main Component
 export default function Home() {
