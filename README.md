@@ -12,7 +12,7 @@ To run the project locally, follow these steps:
 Clone the repository:
 ```bash
 git clone https://github.com/mohitisimmortal/bitscale-assignment.git
-cd your-repo
+cd bitscale-assignment
 npm install
 npm run dev
 ```
